@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nwtter/static/css/main.d34172d5.css",
-    "main.js": "/nwtter/static/js/main.b630c617.js",
-    "index.html": "/nwtter/index.html",
-    "main.d34172d5.css.map": "/nwtter/static/css/main.d34172d5.css.map",
-    "main.b630c617.js.map": "/nwtter/static/js/main.b630c617.js.map"
+    "main.css": "https:https://wonjunYun.github.io/nwtter/static/css/main.d34172d5.css",
+    "main.js": "https:https://wonjunYun.github.io/nwtter/static/js/main.aa8cae8a.js",
+    "index.html": "https:https://wonjunYun.github.io/nwtter/index.html",
+    "main.d34172d5.css.map": "https:https://wonjunYun.github.io/nwtter/static/css/main.d34172d5.css.map",
+    "main.aa8cae8a.js.map": "https:https://wonjunYun.github.io/nwtter/static/js/main.aa8cae8a.js.map"
   },
   "entrypoints": [
     "static/css/main.d34172d5.css",
-    "static/js/main.b630c617.js"
+    "static/js/main.aa8cae8a.js"
   ]
 }
