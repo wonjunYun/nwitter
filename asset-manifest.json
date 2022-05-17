@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nwtter/static/css/main.d34172d5.css",
+    "main.js": "/nwtter/static/js/main.b630c617.js",
+    "index.html": "/nwtter/index.html",
+    "main.d34172d5.css.map": "/nwtter/static/css/main.d34172d5.css.map",
+    "main.b630c617.js.map": "/nwtter/static/js/main.b630c617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34172d5.css",
+    "static/js/main.b630c617.js"
+  ]
+}
